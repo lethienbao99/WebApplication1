@@ -10,18 +10,12 @@ namespace WebApplication1
         public Test()
         {
 
+            Console.WriteLine("AAAA");
         }
-        public Test(int x)
-        {
 
-        }
-        public Test(int x, int y)
+        public void  Func()
         {
-
-        }
-        public Test(int x, int y, int z)
-        {
-
+            Console.WriteLine("AAAA");
         }
     }
 }
