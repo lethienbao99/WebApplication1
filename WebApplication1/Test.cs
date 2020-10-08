@@ -7,6 +7,14 @@ namespace WebApplication1
 {
     public class Test
     {
+        public Test()
+        {
+            Console.WriteLine("AAAA");
+        }
 
+        public void  Func()
+        {
+            Console.WriteLine("AAAA");
+        }
     }
 }
