@@ -9,6 +9,7 @@ namespace WebApplication1
     {
         public Test()
         {
+
             Console.WriteLine("AAAA");
         }
 
